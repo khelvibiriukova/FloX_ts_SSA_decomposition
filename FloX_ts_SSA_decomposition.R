@@ -3,7 +3,7 @@
 #retrieved in O2A and O2B absorption bands (SIF A/SIF B), and Photochemical 
 #reflectance index (PRI) with Singular Spectrum Analysis (SSA).
 
-#The script works only with the output of the FloX processing chain (https://www.jb-hyperspectral.com/products/flox/)
+#The script works only with the output of the FloX processing chain (https://www.jb-hyperspectral.com/products/flox/) on Windows OS
 
 #Steps:
 #1) Quality check of the spectral data and filtering
